@@ -3,6 +3,7 @@
  1)명령어
     grep CMD
 	  # grep OPTIONS PATTERNS file1
+	  
 	    option: -i ,-l, -v, -n, -r, -w
 		patterns: * | . | ^ | $ | [abc] | [a-c] | [^a]
 	sed  CMD
